@@ -39,3 +39,27 @@ balance = موجودی حساب
 credit = اعتبار حساب
 further = دورتر یا فراتر یا به علاوه یا علاوه بر این  یا بیشتر 
 county = استان یا بخش
+badge =درجه نظامی
+pupil دانش اموز
+bright باهوش
+offender مجرم و متخلف
+debut = نخستین اغاز
+designation = سمت-عنوان
+occupy تصرف کردن- به اشغال در اوردن
+adversary دشمن
+allies متفقین جنگ جهانی اول
+bombardment بمباران
+flee فرار کردن
+scramble تقلا کردن-تلاش کردن
+chaos هرج و مرج
+commission کمیسیون
+investigate بررسی کردن
+prosecutor دادستان
+sneak دزدکی کاری کردن-دزدیدن
+snack میان وعده
+snap back بازگشت به حالت قبلی
+release رها کردن -مرخصی
+livid عصبانی
+roundabout میدان
+scandal رسوایی بی ابرویی
+cease-fire اتش بس
