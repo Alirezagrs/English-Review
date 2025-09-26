@@ -39,3 +39,32 @@
 ### credit = اعتبار حساب<br>
 ### further = دورتر یا فراتر یا به علاوه یا علاوه بر این  یا بیشتر <br>
 ### county = استان یا بخش<br>
+### fundemental = اساسی
+### badge درجه نظامی
+### pupil دانش اموز
+### bright باهوش
+### offender مجرم و متخلف
+### debut  نخستین اغاز
+### designation  سمت-عنوان
+### occupy تصرف کردن- به اشغال در اوردن
+### adversary دشمن
+### allies متفقین جنگ جهانی اول
+### bombardment بمباران
+### flee فرار کردن
+### scramble تقلا کردن-تلاش کردن
+### chaos هرج و مرج
+### commission کمیسیون
+### investigate بررسی کردن
+### prosecutor دادستان
+### sneak دزدکی کاری کردن-دزدیدن
+### snack میان وعده
+### snap back بازگشت به حالت قبلی
+### release رها کردن -مرخصی
+### livid عصبانی
+### roundabout میدان
+### scandal رسوایی بی ابرویی
+### cease-fire اتش بس
+### affilict ناراحت کردن و ازردن
+### affiliction رنج غم اندوه درد
+### contradiction تناقض
+### lurk کمین کردن -> ambush

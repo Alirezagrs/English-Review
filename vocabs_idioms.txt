@@ -1,41 +1,71 @@
 New vocabularies and idioms from news, docs, songs, social media post, programmin, etc.
 
-(cntrl + A or select lines by mouse) then (shift + alt + I) => (add chr to all of the lines)
+(cntrl + A or select lines by mouse) then (shift + alt + I) > (add chr to all of the lines)
 
-airspace = حریم هوایی
-manhunt = تعقیب جنایتکار
-aviation = هوانوردی 
-federal = فدرال یا اعتلاف یا اتحاد
-administration = مدیریت یا سرپرستی
-hostage = گروگان
-underway = در دست اقدام
-henious = زشت یا نفرت انگیز یا زننده
-thereshold = آستانه یا سرحد 
-slumber = چرت زدن
-resurrection = رستاخیز یا قیامت
-annihilate = نابود کردن و از بین بردن تمام و کمال
-insidious = موزیانه
-unfold = فاش کردن یا اشکار کردن
-incursion = تهاجم یا تاخت و تاز
-incident = اتفاق یا حادثه
-proletriate = طبقه کارگر
-catastrophe = بدبختی یا مصیبت
-insane = دیوونه یا مجنون
-interlude = وقفه یا میان پرده => نمایش کوتاه و سرگرم کننده بین دو بخش اصلی نمایش
-brief = کوتاه و خلاصه
-shiver = لرزش مثل لرزش بدن از سرما
-precisely = قطعا
-fine = جریمه کردن
-correlate = همبستگی داشتن
-goochy goochy goo = گوگولی موگولی
-lovely dovey = عشقولانه
-teeny weeny = ریزه میزه
-itsy bitsy = کوچول موچول
-okay dokey = باشه حتما
-willy nilly = بخوای نخوای
-holy moly = پشمام یا جلل خالق
-stock = موجودی اجناس انبار
-balance = موجودی حساب
-credit = اعتبار حساب
-further = دورتر یا فراتر یا به علاوه یا علاوه بر این  یا بیشتر 
-county = استان یا بخش
+airspace  حریم هوایی
+manhunt  تعقیب جنایتکار
+aviation  هوانوردی 
+federal  فدرال یا اعتلاف یا اتحاد
+administration  مدیریت یا سرپرستی
+hostage  گروگان
+underway  در دست اقدام
+henious  زشت یا نفرت انگیز یا زننده
+thereshold  آستانه یا سرحد 
+slumber  چرت زدن
+resurrection  رستاخیز یا قیامت
+annihilate  نابود کردن و از بین بردن تمام و کمال
+insidious  موزیانه
+unfold  فاش کردن یا اشکار کردن
+incursion  تهاجم یا تاخت و تاز
+incident  اتفاق یا حادثه
+proletriate  طبقه کارگر
+catastrophe  بدبختی یا مصیبت
+insane  دیوونه یا مجنون
+interlude  وقفه یا میان پرده > نمایش کوتاه و سرگرم کننده بین دو بخش اصلی نمایش
+brief  کوتاه و خلاصه
+shiver  لرزش مثل لرزش بدن از سرما
+precisely  قطعا
+fine  جریمه کردن
+correlate  همبستگی داشتن
+goochy goochy goo  گوگولی موگولی
+lovely dovey  عشقولانه
+teeny weeny  ریزه میزه
+itsy bitsy  کوچول موچول
+okay dokey  باشه حتما
+willy nilly  بخوای نخوای
+holy moly  پشمام یا جلل خالق
+stock  موجودی اجناس انبار
+balance  موجودی حساب
+credit  اعتبار حساب
+further  دورتر یا فراتر یا به علاوه یا علاوه بر این  یا بیشتر 
+county  استان یا بخش
+fundemental  اساسی
+badge درجه نظامی
+pupil دانش اموز
+bright باهوش
+offender مجرم و متخلف
+debut  نخستین اغاز
+designation  سمت-عنوان
+occupy تصرف کردن- به اشغال در اوردن
+adversary دشمن
+allies متفقین جنگ جهانی اول
+bombardment بمباران
+flee فرار کردن
+scramble تقلا کردن-تلاش کردن
+chaos هرج و مرج
+commission کمیسیون
+investigate بررسی کردن
+prosecutor دادستان
+sneak دزدکی کاری کردن-دزدیدن
+snack میان وعده
+snap back بازگشت به حالت قبلی
+release رها کردن -مرخصی
+livid عصبانی
+roundabout میدان
+scandal رسوایی بی ابرویی
+cease-fire اتش بس
+affilict ناراحت کردن و ازردن
+affiliction رنج غم اندوه درد
+contradiction تناقض
+lurk کمین کردن -> ambush
+
