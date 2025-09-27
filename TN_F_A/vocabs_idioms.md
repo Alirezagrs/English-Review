@@ -53,7 +53,7 @@
 ### convenience store خارو بار فروشی کوچک که خرید ازش اسونه و قابل دسترسه
 ### slim/thim لاغر 
 ### slim in docker  نسخه سبک ایمیج
-### مایو شانا
+### swimsuit مایو شنا
 ### bathing suit مایو شنا
 ### bathrobe/towel حوله-لباس حموم
 ### nightgown لباس شب راحتی زنانه
