@@ -44,3 +44,19 @@ chore کار های عادی و روز مره
 household chores کارای خونه => مث تمیز کاری و ...
 tray سینی
 greet حال و احوال کردن
+bank teller کارمند بانک
+gerocery بقالی-خارو بار فروشی-سوپر مارکت
+grocery clerk کارمند سوپرمارکت
+secretary منشی 
+supervisor ناظر-سرپرست
+convenience اسودگی
+convenience store خارو بار فروشی کوچک که خرید ازش اسونه و قابل دسترسه
+slim/thim لاغر 
+slim in docker  نسخه سبک ایمیج
+swimsuit مایو شانا
+bathing suit مایو شنا
+bathrobe/towel حوله-لباس حموم
+nightgown لباس شب راحتی زنانه
+pajamas پیژامه-لباس راحتی
+sweep جارو زدن
+mop جارو 

@@ -68,3 +68,4 @@
 ### affiliction رنج غم اندوه درد
 ### contradiction تناقض
 ### lurk کمین کردن -> ambush
+### in cold blood با خون سردی

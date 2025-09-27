@@ -1,0 +1,62 @@
+### across the street روبرو خیابون
+### down the street پایین تر از خیابون
+### imperative امری یا دستوری (گرامر)
+### instruction دستورالعمل
+### moped موتور گازی تو مایه های کلیک و اینایی که چراغ وسطشون گرده
+### no way اصلا - به هیچ وجه
+### contest مباحثه یا بحث و جدل کردن
+### transportation ترابری یا حمل و نثل
+### personalize شخصی سازی کردن
+### good-looking = pretty(faminine) = handsome(masculine) خوش چهره
+### so >>> very
+### she is very beautifull!
+### she is so beautifull!!!!!!!!!
+
+### i am early or late or in time or on time (توصیف زمانی یک فرد برای رسیدن به مقصد)
+
+###  is oldie but goodie(informal) => قدیمیه ولی باحاله
+### association شرکت-انجمن یا اتحاد یا پیوستگی
+### compliment تعارف - تعریف کردن خوب از کسی
+### blouse پیرهن زنونه
+### tense زمان(دستور زبان) مثل زمان حال ساده -simple peresent tense <=> عصبی و نگران 
+### present هدیه یا کادو یا پیشکش یا زمان در دستور زبان
+
+### A.M ante meridiem قبل از ظهر یا قبل از نیمروز
+### P.M post meridiem بعد از ظهر نیمروز
+### guidance راهنمایی
+### guide راهنما یا راهنمایی کردن
+
+### I want this shirt in large واسه بیان لباس ها تو اندازه های مختلف به این شکل
+### comb شانه
+### comb/brush hair شونه کردن مو
+### put on make up ارایش کردن
+### morning person ادم سحر خیز => earlybird
+### evening person ادم شب زنده دار => night owl
+### survey برآورد یا بررسی کردن
+### take a nap چرت زدن
+### leisure فراغت یا اسودگی
+### leisure time اوقات فراغت
+### do the lundry شستن لباس/لباس شویی
+### take out the garbage اشغال بیرون گزاشتن
+### often غالب اوقات
+### how often do you ... => اغلبا کی ...
+### chore کار های عادی و روز مره
+### household chores کارای خونه => مث تمیز کاری و ...
+### tray سینی
+### greet حال و احوال کردن
+### bank teller کارمند بانک
+### gerocery بقالی-خارو بار فروشی-سوپر مارکت
+### grocery clerk کارمند سوپرمارکت
+### secretary منشی 
+### supervisor ناظر-سرپرست
+### convenience اسودگی
+### convenience store خارو بار فروشی کوچک که خرید ازش اسونه و قابل دسترسه
+### slim/thim لاغر 
+### slim in docker  نسخه سبک ایمیج
+### مایو شانا
+### bathing suit مایو شنا
+### bathrobe/towel حوله-لباس حموم
+### nightgown لباس شب راحتی زنانه
+### pajamas پیژامه-لباس راحتی
+### sweep جارو زدن
+### mop جارو 
