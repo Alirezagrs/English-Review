@@ -52,7 +52,7 @@
 ### convenience اسودگی
 ### convenience store خارو بار فروشی کوچک که خرید ازش اسونه و قابل دسترسه
 ### slim/thim لاغر 
-### slim in docker  نسخه سبک ایمیج
+### slim in docker images  نسخه سبک ایمیج
 ### swimsuit مایو شنا
 ### bathing suit مایو شنا
 ### bathrobe/towel حوله-لباس حموم
