@@ -77,6 +77,11 @@ pliers انبر دست
 bowl کاسه
 scenery منظره - چشم انداز
 instrument ساز
+saint مقدس
+concentrate تمرکز کردن
+each other == one another = یکدیگر
+faithful باوفا-باایمان
+cunnig مکار
 
 ############################# Grammer #############################
 برای کوه باید اول mount بیاد بعد اسم کوه
@@ -125,7 +130,7 @@ Are these keys the same?
 The Earth goes around the sun, and the moon goes around the Earth. 
 
 ** برای صحبت دربارۀ گروهی از افراد، از ساختار زیر استفاده میکنیم.
-the young & the rich & the sick & the blind & the dead & the poor & the deaf 
+the young & the rich & the sick & the blind & the dead & the poor & the deaf & the injured
 the young = young people  the rich = rich people 
 Do you think the rich should pay higher taxes? /*the riches غلطه هاااا حواست باشه*/
 The government has promised to provide more money to help the homeless. 
@@ -136,3 +141,29 @@ the French the English the Spanish the Japanese the Chinese the Sudanese the Vie
 وقتی space کلمه فضا دهد از the استفاده نکن
 وقتی داری کلی صحبت میکنی از the استفاده نکن
 I'm afraid of dogs.
+
+و... وجود داشته باشد States ،Kingdom ،Republic نکته: در اسمهایی 
+the Czech Republic
+the United Kingdom 
+the United States
+
+نکته: برای کلیساها اغلب از مخفف کلمۀ saint استفاده میکنیم the نمیاد
+St. John's Church / St. Patrick's Cathedral
+
+وقتی بخوایم یک نفرو با یک صفت صدا کنیم:
+cyrus the great
+john the ripper
+
+وقتی میخوای بگی یه کاریو تنهایی کردی یا تنهایی جایی بودی یا تنهایی هر چی
+I do it by myself == I do it alone
+by myself / by yourself / by himself / etc. = alone 
+
+whom ضمیر مفعولیه فقط و فقط رسمی تره
+Whom are you playing with? با چه کسی داری بازی می کنی؟ 
+
+who میتونه هم فاعلی باشه و هم مفعوله
+
+-ful is agianst -less
+colorfulرنگارنگ
+colorless بی رنگ
+
