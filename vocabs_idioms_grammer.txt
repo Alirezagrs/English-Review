@@ -82,6 +82,19 @@ concentrate تمرکز کردن
 each other == one another = یکدیگر
 faithful باوفا-باایمان
 cunnig مکار
+wicked خبیث
+broad پهن
+far دور
+furthe دور تر
+frightening ترسناک
+
+
+
+
+
+
+
+
 
 ############################# Grammer #############################
 برای کوه باید اول mount بیاد بعد اسم کوه
@@ -164,6 +177,31 @@ Whom are you playing with? با چه کسی داری بازی می کنی؟
 who میتونه هم فاعلی باشه و هم مفعوله
 
 -ful is agianst -less
-colorfulرنگارنگ
+colorful رنگارنگ
 colorless بی رنگ
 
+
+a bit / musch مورد استفاده در صفت های تفضیلی
+Canada is much bigger than France
+Sara is a bit older than Reza 
+
+مقایسه چنتا از صفات
+good better best
+litte less least
+much more most
+bad worse worst
+few leass least
+many more most
+
+بررسی as adj as
+I am not good as well as you به خوبیه تو نیستم
+as soon as possible ASAP هر چه زود تر
+as far as تا اونجایی که
+as long as تا وقتی که
+
+the same as
+The weather today is the same as yesterday. امروز آب و هوا مثل دیروزه.
+
+استفاده از twice / [number] times
+Gas is twice as expensive as it was a few years ago. گاز دوبرابر از [قیمت] چندسال پیش گرانتره.
+Their house is about three times as big as ours. خانۀ آن ها تقریباً سه ب رابر خانۀ ماست. 
