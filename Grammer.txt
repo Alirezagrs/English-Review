@@ -1,114 +1,3 @@
-New vocabularies and idioms from news, docs, songs, social media post, programmin, etc.
-
-(cntrl + A or select lines by mouse) then (shift + alt + I) => (add chr to all of the lines)
-
-airspace = حریم هوایی<br>
-manhunt = تعقیب جنایتکار<br>
-aviation = هوانوردی <br>
-federal = فدرال یا اعتلاف یا اتحاد<br>
-administration = مدیریت یا سرپرستی<br>
-hostage = گروگان<br>
-underway = در دست اقدام<br>
-henious = زشت یا نفرت انگیز یا زننده<br>
-thereshold = آستانه یا سرحد <br>
-slumber = چرت زدن<br>
-resurrection = رستاخیز یا قیامت<br>
-annihilate = نابود کردن و از بین بردن تمام و کمال<br>
-insidious = موزیانه<br>
-unfold = فاش کردن یا اشکار کردن<br>
-incursion = تهاجم یا تاخت و تاز <br>
-incident = اتفاق یا حادثه <br>
-proletriate = طبقه کارگر<br>
-catastrophe = بدبختی یا مصیبت<br>
-insane = دیوونه یا مجنون<br>
-interlude = وقفه یا میان پرده => نمایش کوتاه و سرگرم کننده بین دو بخش اصلی نمایش<br>
-brief = کوتاه و خلاصه<br>
-shiver = لرزش مثل لرزش بدن از سرما<br>
-precisely = قطعا<br>
-fine = جریمه کردن<br>
-correlate = همبستگی داشتن<br>
-goochy goochy goo = گوگولی موگولی<br>
-lovely dovey = عشقولانه<br>
-teeny weeny = ریزه میزه<br>
-itsy bitsy = کوچول موچول<br>
-okay dokey = باشه حتما<br>
-willy nilly = بخوای نخوای<br>
-holy moly = پشمام یا جلل خالق<br>
-stock = موجودی اجناس انبار<br>
-balance = موجودی حساب<br>
-credit = اعتبار حساب<br>
-further = دورتر یا فراتر یا به علاوه یا علاوه بر این  یا بیشتر <br>
-county = استان یا بخش<br>
-fundemental = اساسی
-badge درجه نظامی
-pupil دانش اموز
-bright باهوش
-offender مجرم و متخلف
-debut  نخستین اغاز
-designation  سمت-عنوان
-occupy تصرف کردن- به اشغال در اوردن
-adversary دشمن
-allies متفقین جنگ جهانی اول
-bombardment بمباران
-flee فرار کردن
-scramble تقلا کردن-تلاش کردن
-chaos هرج و مرج
-commission کمیسیون
-investigate بررسی کردن
-prosecutor دادستان
-sneak دزدکی کاری کردن-دزدیدن
-snack میان وعده
-snap back بازگشت به حالت قبلی
-release رها کردن -مرخصی
-livid عصبانی
-roundabout میدان
-scandal رسوایی بی ابرویی
-cease-fire اتش بس
-affilict ناراحت کردن و ازردن
-affiliction رنج غم اندوه درد
-contradiction تناقض
-lurk کمین کردن -> ambush
-in cold blood با خون سردی
-Thanksgiving شکرگزاری
-heir وارث
-cliff صخره-پرتگاه
-spectacles عینک
-pliers انبر دست
-bowl کاسه
-scenery منظره - چشم انداز
-instrument ساز
-saint مقدس
-concentrate تمرکز کردن
-each other == one another = یکدیگر
-faithful باوفا-باایمان
-cunnig مکار
-wicked خبیث
-broad پهن
-far دور
-furthe دور تر
-frightening ترسناک
-depart راهی شدن - حرکت کردن
-knit بافتن بافتن لباس لیف ....
-knitting بافتنی 
-jog اهسته دویدن
-rip پاره کردن
-grab قاپیدن
-collar یقه
-overseas خارجی - خارجی از کشور
-examine معاینه/ بررسی کردن
-pot گلدون / قابلمه / قوری
-basin تشت/ سینک
-manner شیوه / رفتار 
-hence به همین دلیل - از الان - واسه همین
-fiercely به شدت
-
-
-
-
-
-
-
-
 ############################# Grammer #############################
 برای کوه باید اول mount بیاد بعد اسم کوه
 Mount Everest, Mount Damavand
@@ -297,7 +186,7 @@ May I ask a question? از might استفاده نشود
 If I were in Mehran's position, I think I might look for another job. 
 
 وقتی میخوای بگی بهتره فلان کارو بکنی
-you'd better
+you'd better/ you had better
 may/might as well
 I might as well go home and come back.  بهتره که برم خونه و برگردم
 Rents are so high these days; you may as well buy a house.
@@ -334,3 +223,87 @@ I was very hungry. I had to eat something.
 
 don't need to نیاز نبودن به انجام کاری ...
 don't have to مجبور نبودن واس هانجام کاری...
+
+
+be going to...
+وقتی مطمعن نیستیم چیزی قراره اتفاق بیوفته
+it is going to rain.
+یا قرار بود بیوفته اما نیوفتاده
+it was going to rain but it did not.
+شبیه supposed to ...
+
+will
+اگر فاعل I یا We باشد میتونیم از shall استفاده کنیم
+I will/shall go to party tonight.
+
+would 
+وقتی چیزی واقعی نیست
+I would be nice to have lot of cars.
+
+would + have + pp
+وقتی میخواهید چیزی را که در گذشته اتفاق نیفتاده تصور کنید، 
+They helped us a lot. I don't know what we would have done without their help
+
+will vs would
+I'll call Kamran. I've got his number به کامران زنگ میزنم شمارشو دارم.
+I'd call Kamran, but I don't have his number. به کامران زنگ میزدم اما شمارشو ندارم.
+
+would / used to
+وقتی میخواهیم توضیح بدیم یه چیزی در گذشته به طور مکرر اتفاق میوفتاده
+you used to/would call me on my cellphone.
+
+would you like == do you want
+would you like some coffe?
+do you want some coffe?
+
+شکل محترمانه و رسمی I want
+I would like = I'd like
+I'd like a tea یه چایی تقاضا دارم.
+
+will == shall when I or We
+وقتی فاعل I یا We باشه میتونیم از shall استفاده کنیم.
+Where shall we go for our holidays this year? 
+
+
+should == ought to
+به معنی باید و برای توصیه کردن به کسی استفاده میشود.الزامی برای انجام دادنش ندارد صرفا توصیه است.
+You should/ought to eat plenty of fruit and vegetables. 
+must >>> should => دارای تاکید خیلی زیاد
+
+should + have + pp
+برای بیان کاری که در گذشته انجام نداده اید، اما بهتر بود که آن کار را انجام دهید، 
+I should have studied a lot.
+
+have to/ has to == have got to/ has got to ===> مجبور بودن 
+میتونیم قبلش از افعال مدال هم استفاده کنیم
+I might have to leave the meeting early. 
+They can’t fix my computer, so I'll have to buy a new one. 
+گذشتش had to
+
+must >>> have to/has to => قوی تره
+you must not go واقعا نباید بری باید بمونی
+you don't have to go میتونی بری یا نری مجبور نیستی
+
+
+need to ==> اینجا مدال است
+***************مهم*****************
+doesn't need to === need not === have/has to
+She doesn't have to arrive so early. 
+She need not arrive so early. 
+She doesn't need to arrive so early. 
+
+از had better برای حال یا اینده فقط استفاده میکنیم
+I have to meet Saba in 10 minutes. I'd better go now or I'll be late
+had better شبیه should است
+
+***************مهم*****************
+dare یه معنای جرات داشتن
+در جملات منفی و سوالی یک مدال است
+رسمی یا ادبی از شکل مدال استفاده میکنیم اما تو محاوره:
+dare to ...
+
+I daren’t go home
+Dare we admit this
+I dare to eat this.
+
+___page111___
