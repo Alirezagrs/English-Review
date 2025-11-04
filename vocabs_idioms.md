@@ -1,7 +1,5 @@
 ### New vocabularies and idioms from news, docs, songs, social media post, programmin, etc.
-
 ### (cntrl + A or select lines by mouse) then (shift + alt + I) => (add chr to all of the lines)
-
 ### airspace = حریم هوایی<br>
 ### manhunt = تعقیب جنایتکار<br>
 ### aviation = هوانوردی <br>
@@ -69,3 +67,35 @@
 ### contradiction تناقض
 ### lurk کمین کردن -> ambush
 ### in cold blood با خون سردی
+### Thanksgiving شکرگزاری
+### heir وارث
+### cliff صخره-پرتگاه
+### spectacles عینک
+### pliers انبر دست
+### bowl کاسه
+### scenery منظره - چشم انداز
+### instrument ساز
+### saint مقدس
+### concentrate تمرکز کردن
+### each other == one another = یکدیگر
+### faithful باوفا-باایمان
+### cunnig مکار
+### wicked خبیث
+### broad پهن
+### far دور
+### furthe دور تر
+### frightening ترسناک
+### depart راهی شدن - حرکت کردن
+### knit بافتن بافتن لباس لیف ....
+### knitting بافتنی 
+### jog اهسته دویدن
+### rip پاره کردن
+### grab قاپیدن
+### collar یقه
+### overseas خارجی - خارجی از کشور
+### examine معاینه/ بررسی کردن
+### pot گلدون / قابلمه / قوری
+### basin تشت/ سینک
+### manner شیوه / رفتار 
+### hence به همین دلیل - از الان - واسه همین
+### fiercely به شدت
