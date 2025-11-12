@@ -381,7 +381,7 @@ I'd go out if it wasn't/weren't so cold.
 در قسمت if-cluse از افعال مدال استفاده نشود
 If I were rich, I would have a Ferrari. 
 If I would be rech XXXXXXX اشتباهه
-
+*********************************************************
 
 on purpose از قصد
 to be on strike اعتصاب کردن
@@ -393,6 +393,145 @@ by chance شانسی
 by accident تصادفی
 by mistake اشتباهی
 
-میتوان از by به جای next to/bewside استفاده کرد
+میتوان از by به جای next to/beside استفاده کرد
 Come and sit by me. 
 The light switch is by the door. 
+
+***** سوالات غیر مستقیم مودبانه یا Indirect Questions or Embedded Questions*****
+What time is it? => Do you know what time it is?
+Where can I find Linda? => Can you tell me where I can find Linda?
+What time does the movie begin? => Do you know what time the movie begins?
+Did anybody see you? => Do you know if/wether anybody saw you? 
+*********************************************************
+
+****Tag Questions****
+Maria will be here soon, won't she? 
+It is raining now, isn't it?
+
+XXوقتی از let's استفاده کنیم حتما از shall استفاده شودXX
+Let's go for a walk, shall we?بزن بریم پیاده روی کنیم، موافقی؟ 
+
+جمله امری باشه از will استفاده شود:
+Listen to me. will you?
+
+واسه I هم are/were بیاد:
+I was mad. werent't I?
+I am mad? arent't I?
+
+between واسه دو نفر/چیز
+among سه به بالا
+
+everybody به معنای همه است اما عین یک اسم مفرد برخورد شود
+everybody knows/is/was/does
+*********************************************************
+
+************direct/reported speech***********
+نقل قول مستقیم
+وقتی بخوای عین جمله یه نفرو به یکی دیگه بگی
+""جمله نقل شده باید حتما در میون این قرار گیرد
+Mahnaz: I'm sick ==> Mahnaz said, "I'm sick." یا "I'm sick," Mahnaz said
+
+نقل قول غیر مستقیم
+فعل ها به گذشته تبدیل میشوند
+هر فعلی استفاده شده باشه یه پله میره عقب یعنی گذشته تر میشه
+Mahnaz said that she was sick => that is optional.
+I can't come to the party => he said he couldn't ...
+
+: اگر زمان جملهای که گفته شده، گذشتۀ ساده باشد، در نقل قول غیرمستقیم، میتوان از همان زمان گذشتۀ ساده استفاده کرد و همچنین میتوانیم از ماضی بعید استفاده کنیم.
+Moslem said, "I woke up feeling sick, so I didn’t go to work." 
+Moslem said (that) he woke up feeling sick, so he didn't go to work. 
+Moslem said (that) he had woken up feeling sick, so he hadn't gone to work.
+
+وقتی چیزی را نقل میکنید و وضعیت آن تغییری نکرده است، ضرورتی برای تغییر فعل به زمان گذشته نیست.  
+Ali said, "My new job is very interesting." 
+Ali said (that) his new job is very interesting. 
+هنوز شغلش جالبه و چیزی عوض نشده
+
+اگر وضعیت تغییر کرده باشد حتما باید زمان بره یه پله عقب تر گذشته بشه
+
+I've lived here for a long time
+I had lived here for a long time
+
+تفاوت در نقل قول say و tell
+بعد tell ضمیر مفعولی میاد
+he told me.
+he said me. اشتباهه => he said to me.
+
+تفاوت ask و tell در نقل قول
+the doctor told me / asked me to stay at home
+He told me / asked me not to tell this point to anybody.
+
+نقل قول های پرسشی
+Where are you from?" David said to me.
+David asked me where I was from.
+
+"Are you from Iran?" David said to me.
+David asked me if/whether I was from Iran
+
+تغییرات اصطلاحات زمانی و مکانی در نقل قول غیرمستقیم، وقتی که زمان یا مکان گوینده، تغییر کرده باشد
+today ==> that day
+yesterday ==> the day before
+the day before yesterday ==> two days before 
+tomorrow ==> the next/following day
+the day after tomorrow ==> in two days time/two days later
+next week/month/year ==> the following week/month/year 
+last week/month/year => the previous /week/month/year 
+ago ==> before 
+this (for time) => that
+this/that (adjectives) ==> the
+here ==> there
+exp : "Do you like this shirt?" he said. => he said that If I Liked that shirt.
+
+the day before yesterday پریروز
+the day after tomorrow پس فردا
+*********************************************************
+
+good enough به اندازه کافی خوب
+big enough به اندازه کافی بزرگ
+...
+
+These boxes are too heavy to carry. (not too heavy to carry them)
+The wallet was too big to put in my pocket. (not too big to put it) 
+...
+
+ساختار so ... that
+ساختار such ... that
+معمولا that حذف میشود
+The book was so/such good that I couldn't put it down.
+[آن] کتاب آنقدر خوب بود که نمیتونستم بذارمش زمین
+I was so/such tired I fell asleep in the armchair. انقدر خسته بودم [که] روی مبل خوابم برد.
+
+more efficient صفت تفضیلی => موثر تر
+more efficiently قید تفضیلی => به طور موثر
+
+قیود تکرار
+always/ occasionally/ sometimes/ never/ usually 
+rarely/ hardly ever/ often/ seldom/ normally/ frequently 
+
+
+******************* اصطلاحات کاربردی از جملات مجهول *******************
+It is said that… ....گفته میشه که 
+یا هرفعلی مثل
+It is believed/expected/alleged ... that
+
+The strike started three weeks ago. اعتصاب سه هفته پیش شروع شد.
+It is expected that it will end soon. انتظار می رود که به زودی پایان یابد. 
+The strike is expected to end soon. انتظار می رود که به زودی پایان یابد.
+
+
+To be supposed to... ....قراره که / گفته میشه که /توصیه شدن
+I'd better hurry, I'm supposed to meet Omid in 10 minutes
+Simin was supposed to call me last night, but she didn't. 
+You're not supposed to park your car here.
+
+وقتی میخواهید کاری انجام شود اما آن کار قرار نیست توسط خود شما انجام شود و در واقع یک نفر دیگر آن کار را برای شما انجام می دهد، از ساختار زیر استفاده می کنید
+
+Elham repaired the roof الهام سقف را تعمیر کرد. (خودش اینکارو کرد.)
+Elham had the roof repaired الهام سقف رو داد تعمیر کردند. (یه نفر دیگه سقف رو برای الهام تعمیر کرد)
+where did you have tour hair cut? کجا دادی موهات رو برات کوتاه کردن؟
+we are having the house painted this week این هفته داریم میدیم خونه رو رنگ کنن. 
+
+در زبان غیر رسمی از get میتونیم استفاده کنیم 
+I got my hair cut.
+**************************************************************
+173
