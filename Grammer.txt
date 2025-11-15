@@ -251,6 +251,7 @@ I'd call Kamran, but I don't have his number. به کامران زنگ میزد�
 would / used to
 وقتی میخواهیم توضیح بدیم یه چیزی در گذشته به طور مکرر اتفاق میوفتاده
 you used to/would call me on my cellphone.
+تو عادت داشتی فلان کارو بکنی
 
 would you like == do you want
 would you like some coffe?
@@ -448,7 +449,6 @@ Ali said (that) his new job is very interesting.
 هنوز شغلش جالبه و چیزی عوض نشده
 
 اگر وضعیت تغییر کرده باشد حتما باید زمان بره یه پله عقب تر گذشته بشه
-
 I've lived here for a long time
 I had lived here for a long time
 
@@ -534,4 +534,104 @@ we are having the house painted this week این هفته داریم میدیم 
 در زبان غیر رسمی از get میتونیم استفاده کنیم 
 I got my hair cut.
 **************************************************************
-173
+
+************************* 1 حروف ربط************************
+FANBOYS
+for-and-nor-but-or-yet-so
+
+ساختار هایی که سوالی میشوند => neither/nor * no sooner / than * as/so
+
+for برای اینکه / به خاطر اینکه =>یک دلیل یا یک هدف را توضیح میدهد
+I go to the park every Friday, for I long to see his face. 
+من هر جمعه به پارک میروم، به خاطر اینکه آرزو دارم چهرهاش را ببینم
+
+کاربرد comma
+قبل از اخرین مورد and میاریم
+I got home, had something to eat, sat down in an armchair, and fell asleep.
+
+nor/neither گفتن دومین اینده منفی
+ساختار سوالی میشه تو قسمت دوم
+My sister doesn’t like to study, nor/neither does she take notes in class.
+Our family hasn’t been to New York, nor/neither have we been to Florida. 
+
+معمولا nor با neither میاد
+I neither hate nor love to watch TV.
+
+*neither میتونه تنها هم بیاد
+به معنای هیچ، هیچ کدام، هیچ یک از
+Neither of us went to the concert.
+Neither parent came to meet the teacher.
+
+
+but اما/به جز
+Everyone but me was invited. همه به جز من، دعوت بودند
+
+yet در عین حال/در حالی که => معرفی یک ایده متضاد
+I really want a kitten, yet my mom says we have too many cats.
+
+so خیلی/بنابراین/در نتیجه
+
+حروف ربط میتونن دو فعل/اسم/صفت رو به هم وصل کنند در جمله
+ran and jump
+coffee or tea 
+grand yet mysterious
+
+کاربرد دیگر either/nor/neither
+وقتی میخوا بگی منم همینطور/اونم همینطور...
+ساختار سوالی میشه
+I don’t have any money
+nor/neither do I.
+me either. (informal)
+
+حروف ربط جفتی 
+both/and هم این هم اون
+Both rugby and football are popular in France. 
+
+either/or یا این یا اون در جمله مثبت
+I want either the cheesecake or the chocolate cake
+
+neither/nor نه این نه اون
+Jerry is neither rich nor famous.
+
+if/then اگه یچیزی بشه-فلان میشه
+If you heat water to 100 degrees, then it boils. 
+
+not/but این نه ولی اون اره
+I am not really like this shirt but crazy about that one.
+
+not only/but also نه تنها بلکه
+I like not only chicken, but also fish
+** as well as میتونی استفاده هم کنی واسه کوتاه کردن جمله
+I like chicken as well as fish. (as the same as not only/ but also)
+Not only Lily, but also John came to the party
+John, as well as Lily, came to the party
+
+wether/or ایا فلان چیز یا فلان چیز-تصمیم بین دوگزینه
+I didn’t know whether you’d want the cheesecake or the chocolate cake, so I got both.
+نمیدونستم که آیا کیک پنیری میخوای یا کیک شکلاتی. بنابراین جفتش رو گرفتم. 
+دیگه تو گفت گوی فارسی ایا شون نمیاریم-مسخره میشه.
+
+no sooner/than هنوز یه اتفاقی نیوفتاده اتفاق دیگه افتاده
+ساختار سوالی میشود.
+No sooner did he enter the room than he saw a snake. هنوز وارد اتاق نشده بود که یک مار دید.
+No sooner had I finished watering the garden than it started raining. هنوز آب دادن باغچه را تموم نکرده بودم که [آسمان] شروع به باریدن کرد
+
+rather/than ترجیح دادن
+I'd rather stay here than there.
+
+just as/so همانطور که فلان ... فلان
+just is optional.
+ساختار سوالی میشود
+Just as I love films, so does Sina love sports
+Just as Americans love baseball, so do Europeans love soccer.
+
+
+باید در استفاده از حروف ربط ساختار موازی رعایت شود:
+اولی غلطه چون اول فعل اومد دوم اسم اومده بعد از but also
+Lee not only likes cookies but also cakes. غلطه
+Lee not only likes cookies but also likes cakes.  
+Lee likes not only cookies but also cakes.
+************************************************************
+
+
+************************* 2 حروف ربط************************
