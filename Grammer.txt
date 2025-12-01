@@ -539,7 +539,7 @@ I got my hair cut.
 FANBOYS
 for-and-nor-but-or-yet-so
 
-ساختار هایی که سوالی میشوند => neither/nor * no sooner / than * as/so
+ساختار هایی که سوالی میشوند => neither/nor * no sooner / than * as/so * only if
 
 for برای اینکه / به خاطر اینکه =>یک دلیل یا یک هدف را توضیح میدهد
 I go to the park every Friday, for I long to see his face. 
@@ -625,6 +625,9 @@ just is optional.
 Just as I love films, so does Sina love sports
 Just as Americans love baseball, so do Europeans love soccer.
 
+تنها هم میتونه بیاد 
+Just as I sat down, the doorbell rang درست همان موقع که نشستم، زنگِ در به صدا درآمد
+
 
 باید در استفاده از حروف ربط ساختار موازی رعایت شود:
 اولی غلطه چون اول فعل اومد دوم اسم اومده بعد از but also
@@ -635,3 +638,103 @@ Lee likes not only cookies but also cakes.
 
 
 ************************* 2 حروف ربط************************
+before - after - as - when - till - until - while - once 
+as soon as - as long as  - whenever - since - ever since - now that 
+only if - if only - even if - lest
+unless - in case (that) - provided/providing that - supposing that - assuming that 
+than - rather than - while - whether - as much as 
+though - although - even though - while 
+because - as - since - so that - in order (that) - so as to - that
+as===like همانطور
+as چون-برای اینکه
+as though == as if == like ==> انگار/مثل اینکه
+It sounds as though/like/as if به نظر میرسه که
+only if تنها اگر 
+if only تنها اگر / ای کاش
+lest مبادا
+as much as هرقدر که-همانقدر
+as far as تا جایی که
+as long as تا وقتی که
+as soon as به محض اینکه
+asap در اسرع وقت
+as زمانیکه
+once به محض اینکه
+now that الان که
+since از وقتی که ==> بیان معمولی - چون
+ever since از اون موقع تا همین حالا/ از وقتی که ==> احساسی تر
+in case چنانچه-محض احتیاط-نکنه-تا نکنه 
+provided that به شرطی که
+supposing that به فرض که
+assuming that به فرض که
+unless مگر اینکه
+just in case محض احتیاط با احتمال کمتر
+than از => موقع استفاده از صفت های برتری
+rather than به جای - در عوض -نسبت به
+whether که - که ایا
+whereas در حالی که
+while در حالی که - با اینکه - علی رغم اینکه
+though با اینکه- اگرچه - هرچند - علی رغم اینکه
+although even با اینکه- اگرچه - هرچند - علی رغم اینکه
+though با اینکه- اگرچه - هرچند - علی رغم اینکه
+so (that) به همین خاطر - تا
+in order that برای اینکه - تا
+so as to به منظور - تا
+because چونکه-زیرا
+because of = due to = owing to به خاطر
+in spite of = despite = notwithstanding علی رغم-با وجود
+
+
+examples:
+You can go and play now that you have finished your homework. 
+I haven’t played rugby since/ever since I left university
+Study hard lest you should fail. سخت درس بخوانید، تا مبادا بیفتید (قبول نشوید).
+Only if a teacher has given permission is a student allowed to leave the room. 
+تنها اگر یک معلم اجازه داده باشد، یک دانشآموز میتواند کلاس را ترک کند
+If only Sina had talked to her sooner! ای کاش سینا زودتر باهاش حرف می زد! 
+I'd better write down my password in case I forget it
+I don't think it will rain, but I'll take an umbrella just in case
+They look as though they’re heading for divorce
+
+---------
+بعد از in case از will استفاده نشود
+I'll write down my password in case I forget it. (not in case I will forget it) 
+
+in case of === if there is
+In case of fire, please leave the building as quickly as possible. 
+If there is a fire, please leave the building as quickly as possible. 
+اگر آتشسوزی رخ داد، لطفاً در اسرع وقت ساختمان را ترک کنید. 
+
+برخی ساختار های رایج:
+معنی همشون میشه انگاری - به نظر میرسه که
+It sounds 
+It looks like 
+It's as if
+It looks as if 
+It sounds as if 
+It sounds as though 
+
+:::نکات مهم :::
+بعد از though although even though
+باید جمله بیاید
+though میتونه به عنوان قید در اخر جمله بیاد
+
+though/although/even though it is rainy I wanaa go out.
+Two heart attacks in a year. It hasn’t stopped him smoking, though. 
+دو حملۀ قلبی در یک سال. اگرچه هنوز باعث نشده است او سیگار کشیدن را کنار بگذارد. 
+
+بعد از because یک شبه جمله می اید
+بعد از because of اسم-ضمیر-فعل آی ان جی دار میاد
+I hate you because you are a slut.
+because of raining, our meeting got cancled.
+
+بعد از in spite of , despite
+اسم ضمیر فعل آی ان جی دار میاد
+بعد از despite از of استفاده نمیکنیم
+
+important expls:
+Despite what I said yesterday
+Although it rained a lot
+In spite of the rain
+I could not sleep despite being very tired
+I couldn't sleep although I was very tired. 
+189
