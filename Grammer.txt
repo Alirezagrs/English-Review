@@ -1,4 +1,6 @@
 ############################# Grammer #############################
+
+*******************************************************************
 برای کوه باید اول mount بیاد بعد اسم کوه
 Mount Everest, Mount Damavand
 Mount == Mountain => Mount is used mostly
@@ -32,7 +34,10 @@ many و few / a few برای کلمات قابل شمارش
 much و little / alittle برای کلمات غیر قابل شمارش
 
 news به معنی اخبار و غیر قابل شمارشه و مفرده
+*******************************************************************
 
+
+*******************************************************************
 ******the******* ==>
 وقتی منظورمون شخص یا شی خاصی است نه عام
 I bought a shirt and a jacket. The shirt was cheap, but the jacket was expensive. 
@@ -107,8 +112,9 @@ The weather today is the same as yesterday. امروز آب و هوا مثل د�
 استفاده از twice / [number] times
 Gas is twice as expensive as it was a few years ago. گاز دوبرابر از [قیمت] چندسال پیش گرانتره.
 Their house is about three times as big as ours. خانۀ آن ها تقریباً سه ب رابر خانۀ ماست. 
+*******************************************************************
 
-
+*******************************************************************
 قید ها 
 always never often usually sometimes
 با simple past استفاده میشن
@@ -141,7 +147,9 @@ Maryam's hair is longer than Sahar's. (= Sahar's hair) موی مریم بلند�
 have و has برای داشتن 
 میتونی همچنین بگی have got / has got
 I have / have got brown hair.
+*******************************************************************
 
+*******************************************************************
 حال کامل
 از زمان حال کامل، برای صحبت در مورد اتفاق هایی استفاده می کنیم که در گذشته رخ داده اند، و تاثیرش در زمان حال نیز دیده می شود
 Messi has scored two goals.
@@ -306,7 +314,10 @@ dare to ...
 I daren’t go home
 Dare we admit this
 I dare to eat this.
+*******************************************************************
 
+*******************************************************************
+*********نکات مهم***********
 at christmas
 on christmas day
 as the same time همزمان
@@ -347,8 +358,9 @@ at the doctor's در مطب دکتر
 
 وقتی بگیم کسی با تاکسی یا ماشین رسید.
 I arrived in a taxy/car.
+*******************************************************************
 
-
+*******************************************************************
 ******************************جملات شرطی*********************************
 نوع صفر
 برای صحبت در مورد چیزهایی استفاده می شود که به طور کلی درست هستند، مخصوصاً برای قوانین و قواعد
@@ -382,8 +394,10 @@ I'd go out if it wasn't/weren't so cold.
 در قسمت if-cluse از افعال مدال استفاده نشود
 If I were rich, I would have a Ferrari. 
 If I would be rech XXXXXXX اشتباهه
-*********************************************************
+*******************************************************************
 
+*******************************************************************
+*********نکات مهم*********
 on purpose از قصد
 to be on strike اعتصاب کردن
 on fire در اتش - اتش گرفتن
@@ -403,8 +417,9 @@ What time is it? => Do you know what time it is?
 Where can I find Linda? => Can you tell me where I can find Linda?
 What time does the movie begin? => Do you know what time the movie begins?
 Did anybody see you? => Do you know if/wether anybody saw you? 
-*********************************************************
+*******************************************************************
 
+*******************************************************************
 ****Tag Questions****
 Maria will be here soon, won't she? 
 It is raining now, isn't it?
@@ -424,8 +439,9 @@ among سه به بالا
 
 everybody به معنای همه است اما عین یک اسم مفرد برخورد شود
 everybody knows/is/was/does
-*********************************************************
+*******************************************************************
 
+*******************************************************************
 ************direct/reported speech***********
 نقل قول مستقیم
 وقتی بخوای عین جمله یه نفرو به یکی دیگه بگی
@@ -484,8 +500,10 @@ exp : "Do you like this shirt?" he said. => he said that If I Liked that shirt.
 
 the day before yesterday پریروز
 the day after tomorrow پس فردا
-*********************************************************
+*******************************************************************
 
+*******************************************************************
+*********نکات مهم********
 good enough به اندازه کافی خوب
 big enough به اندازه کافی بزرگ
 ...
@@ -507,8 +525,9 @@ more efficiently قید تفضیلی => به طور موثر
 قیود تکرار
 always/ occasionally/ sometimes/ never/ usually 
 rarely/ hardly ever/ often/ seldom/ normally/ frequently 
+*******************************************************************
 
-
+*******************************************************************
 ******************* اصطلاحات کاربردی از جملات مجهول *******************
 It is said that… ....گفته میشه که 
 یا هرفعلی مثل
@@ -533,8 +552,9 @@ we are having the house painted this week این هفته داریم میدیم 
 
 در زبان غیر رسمی از get میتونیم استفاده کنیم 
 I got my hair cut.
-**************************************************************
+*******************************************************************
 
+*******************************************************************
 ************************* 1 حروف ربط************************
 FANBOYS
 for-and-nor-but-or-yet-so
@@ -634,9 +654,9 @@ Just as I sat down, the doorbell rang درست همان موقع که نشستم
 Lee not only likes cookies but also cakes. غلطه
 Lee not only likes cookies but also likes cakes.  
 Lee likes not only cookies but also cakes.
-************************************************************
+*******************************************************************
 
-
+*******************************************************************
 ************************* 2 حروف ربط************************
 before - after - as - when - till - until - while - once 
 as soon as - as long as  - whenever - since - ever since - now that 
@@ -683,6 +703,8 @@ because چونکه-زیرا
 because of = due to = owing to به خاطر
 in spite of = despite = notwithstanding علی رغم-با وجود
 
+وقتی میگیم ای کاش بجای was از were استفاده کنیم
+If only I were rich.
 
 examples:
 You can go and play now that you have finished your homework. 
@@ -731,10 +753,154 @@ because of raining, our meeting got cancled.
 اسم ضمیر فعل آی ان جی دار میاد
 بعد از despite از of استفاده نمیکنیم
 
-important expls:
+important exmpls:
 Despite what I said yesterday
 Although it rained a lot
 In spite of the rain
 I could not sleep despite being very tired
 I couldn't sleep although I was very tired. 
-189
+*******************************************************************
+
+*******************************************************************
+*********** نکاتی مهم**************
+Let's == Let us
+Let’s phone her now, shall we? بیا بهش زنگ بزنیم، باشه؟
+Let me do this. اجازه بده این [کارو] انجامش بدم
+Come on, Milad; I’m waiting. بجنب میلاد، منتظرم
+
+برای تاکید مودبانه در ابتدای جملات مثبت از Do استفاده میکنیم
+Do stop talking! I’m trying to work. دیگه حرف نزن! دارم سعی می کنم کار کنم. 
+
+everybody-everyone-someone-somebody-anybody
+این اسامی بالا همیشه بعدشون فعل مفرد میاد حتی اگه معنی جمع بدهند.
+*******************************************************************
+
+*******************************************************************
+********Gerund اسم مصدر********
+اسم مصدر == اسمی که آی ان جی بگیره
+asking پرسیدن-پرسش
+Flying پرواز کردن-پرواز
+
+Flying makes me nervous.
+She walked out of the room without saying a word
+My favorite activity is hiking
+
+مواردی که حتما بعدشون باید اسم مصدر بیاد:
+
+can't help چاره ای نداشتن
+I can't help being a perfectionist. 
+
+cant't stand تحمل کردن
+I really can’t stand you anymore.
+
+it is no use/ there is no use فایده نداشتن - حاصل نداشتنن
+It’s no use complaining.
+There's no use worrying about it.
+
+would somebody mind میشه-ممکنه لطف کنی
+would you mind closing the window please?
+
+to be worth ارزش داشتن
+it is not worth spending time for you.
+
+have trouble/problem/difficulty سخت بودن
+I had problem finding a house.
+
+to be busy
+I was busy studying my lessons. مشغول خوندن درسام بودم
+
+افعال زیادی هستند که بعدشون اسم مصدر میاد مثل:
+miss - dislike - involve - deny .......
+
+بعد از look forward to اسم مصدر بیاد
+look forward to ==> مشتاق بودن-بیصبرانه منتظر بودن-لحظه شماری کردن
+My mother says she’s looking forward to meeting you. مادرم می گوید که بیصبرانه منتظر دیدار با شماست. 
+*******************************************************************
+
+*******************************************************************
+*********** اسم مصدر infinitive با to ***********
+to help کمک - کمک کردن
+to do انجام - انجام دادن
+
+To help others is so important
+He decided to leave early
+Ali wants a pizza to eat
+We must study to learn
+Her job is to assist you
+
+مثل Gerund افعال زیادی اند که با to میان
+want-plan-decide-hope-expect-offer 
+
+***********موارد خیلی مهمممم*************
+افعالی که هر دورو میگیرن اما با معنی متفاوت
+
+Stop buying bread from the supermarket. از خریدن نان از سوپرمارکت، دست بکش.
+Stop to buy bread from the supermarket. وایسا از سوپرمارکت نان بخر (بخریم).
+
+I'll never forget watching my first horror movie. هرگز تماشای اولین فیلم ترسناکم را فرام وش نخواهم کرد
+Don't forget to watch the news tonight. فراموش نکن که امشب اخبار را ببینی.
+
+Do you remember dancing with me on our first date? رقصیدن با من در اولین قرارمون رو یادته؟
+Remember to take lots of pictures on your trip. یادتان باشد که در سفرتان، عکسای زیادی بگیرید.
+
+Ali regretted yelling at Sanaz as soon as she walked away.  علی به محض اینکه ساناز رفت، از فریاد زدن بر او پشیمان شد
+I regret to say that I wasn't impressed by the performance. متاسفم که می گویم تحت تأثیر اجرا قرار نگرفتم
+
+The president went on talking for hours. رئیس جمهور برای ساعت ها به حرف زدن ادامه داد. 
+After discussing the economy, the president then went on to talk about foreign policy. پس از بحث در مورد اقتصاد، رئیس جمهور سپس به صحبت دربارۀ سیاست خارجه پرداخت
+
+Try using margarine instead of butter. به جای کره، استفاده از مارگارین رو امتحان کن.
+I was very tired. I tried to keep my eyes open, but I couldn't. خیلی خسته بودم. سعی کردم چشمانم را باز نگهدارم، اما نتونستم
+
+افعالی که هر دورو میگیرن با معنی یکسان
+begin - start - continue - bother
+
+افعالی که بعدش میتونه to بیاد یا نیاد دلبخواهیه
+dare - help
+I could not dare (to) go there.
+It may not help (to) you.
+
+لزومی نداشتن
+need not / needn't have + pp وقتی استفاده می شود که عمل مربوطه انجام شده باشد
+didn’t need to + verb وقتی استفاده می شود که عمل مربوطه انجام نشده باشد. 
+I needn't have bought a jacket, but I bought one. 
+I didn’t need to buy a jacket, so I didn’t buy. 
+
+افعال like - love - hate هر دو مصدر رو میگیرن با معانی مختلف
+Do you like getting up early?  Do you like to get up early? ز ود از خواب بیدار شدن رو دوست داری؟ 
+Omid lives in Mazandaran now. He likes living there
+Omid lives in Mazandaran now. He likes to live in Shiraz. 
+
+برای ساختار های زیر همیشه از to-infinitive استفاده شود
+فقط برای would rather بدون to بیاد
+would like 
+would love 
+would hate 
+would prefer == would rather
+Would you like to come to dinner on Friday
+I'd love to meet your family
+*******************************************************************
+
+*******************************************************************
+***********موارد خیلی مهمممم*************
+prefer vs would rather
+برای prefer هر دو حالت میتونه بیاد
+I prefer to live in the country
+I prefer living in the country
+
+would rather قعل ساده میاد بعدش
+I'd rather you made dinner now. 
+
+be/get used to + Gerund
+to be used to doing sth عادت داشتن، آشنا بودن
+get used to doing sth عادت کردن، آشنا شدن
+ 
+I am used to living alone
+I got used to living alone. به تنها زندگی کردن عادت کردم.
+
+used to do انجام کاری در گذشته به صورت مکرر
+I used to drive to work every day, but these days I usually ride my bike. 
+
+go to sleep / go to bed خوابیدن
+208
+*******************************************************************
