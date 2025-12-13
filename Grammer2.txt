@@ -1,2 +1,73 @@
 ############################# Grammer2 #############################
-from page 208
+
+******************************************************
+**********ضمایر موصولی*********
+what - where - which - who - whom - whose - when - why => که
+that واسه همه میاد
+دارای اشکال مختلف با معانی یکسان
+Police who are investigating the crime are looking for three men.
+Police investigating the crime are looking for three men. 
+پلیسهایی که در مورد [آن] جنایت در حال تحقیق هستند، دنبال سه مرد میگردند. 
+ 
+Do you know the woman who is talking to Saba? 
+Do you know the woman talking to Saba? 
+زنی که دارد با صبا حرف میزند را میشناسی؟ 
+
+The boy who was injured in the accident was taken to the hospital
+The boy injured in the accident was taken to the hospital. 
+پسری که در تصادف صدمه دید به بیمارستان منتقل شد. 
+
+I like the man who lives next door. 
+I like the man living next door.
+مردی که در خانۀ مجاور زندگی می کند را دوست دارم. 
+ 
+توجه شود که بعد از ضمایر موصولی دیگه ضمایر فاعلیشون نیاد
+در پایین it و he باید پاک شوند
+The bike which I loved it was stolen غلط
+I like the man who he lives next door. غلط
+
+مهم
+I live in a city. I study in the city. 
+
+live in the city that I study in
+I live in the city which I study in
+I live in the city in which I study****
+I live in the city where I study. 
+در شهری که درس میخوانم زندگی میکنم. 
+ 
+هدف چرایی انجلم کار هستش پس why میشه ضمیر موصوفی
+The reason why I'm calling you is to ask your advice.
+
+***************بسیاااااار مهههههممم***************
+قبل از whom و which میتونیم حرف اضافه بیاریم
+دلیلش هم باعث میشه که ضمیر فاعلیش/مفعولیشو نیاریم بعد از صفت موصولی
+Mr. Carter, to whom I spoke at the meeting, is very interested in our plan.
+Fortunately, we had a map, without which we would have gotten lost. 
+Tom tried on three jackets, none of which fit him. 
+Sanaz has a lot of friends, many of whom she went to school with. 
+They have three cars, two of which they rarely use
+
+: استفاده میکنیم whom به جای  who در زبان محاوره، معمولاً حرف اضافه را بعد از فعل جملۀ موصولی میآوریم و در این شرایط معمولاً از 
+  
+This is my friend from Canada, who I was telling you about. 
+Yesterday we visited the City Museum, which I'd never been to before.
+******************************************************
+
+******************************************************
+**********قیود ربط*********
+on the other hand از طرفی دیگه
+otherwise وگرنه، در غیر اینصورت
+hence بنابراین - از این رو
+consequently در نتیجه 
+accordingly بر این اساس
+in addition = additionally = besides به علاوه
+further = furthermore = moreover علاوه بر این
+in fact = indeed به راستی-در واقع 
+nevetheless = nonetheless = با این حال - با این وجود
+in contrast در مقابل-در عوض
+conversely = rather بر عکس
+namely به عنوان مثال
+thereafter پس از ان
+meanwhile ضمنا - در ضمن
+******************************************************
+228
