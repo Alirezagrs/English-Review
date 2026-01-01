@@ -29,7 +29,7 @@ I like the man who he lives next door. غلط
 مهم
 I live in a city. I study in the city. 
 
-live in the city that I study in
+I live in the city that I study in
 I live in the city which I study in
 I live in the city in which I study****
 I live in the city where I study. 
@@ -70,4 +70,66 @@ namely به عنوان مثال
 thereafter پس از ان
 meanwhile ضمنا - در ضمن
 ******************************************************
-228
+
+******************************************************
+*****************نکات مهم********************
+that اینکه
+اگر اول جمله بیاد این معنی رو میده
+That individual behavior is influenced by social networks is beyond dispute. 
+اینکه رفتار فردی، تحت تأثیر شبکههای اجتماعی است جای بحث ندارد
+
+اگر جمله با قید منفی شروع شود وارونگی رخ میدهد
+دقیقا همون چیزی که ویتو تو مافیا 2 گقت
+they will never do it again
+never will they do it again
+it seldom rains here
+seldom does it rain here 
+
+**** عبارت وجه وصفی****
+عبارتی است که نقش صفت دارد. 
+میتونه با فعل نوع سوم یا ing دار شروع بشه
+اگر اول جمله با عبارت وجه وصفی اغاز بشه بعدش باید ویرگول گزاشت
+
+Cracked from top to bottom, the mirror was now ruined
+آینه که از بالا به پایین ترک خورده بود، اکنون داغون شده بود
+Look at the panther climbing the tree. به پلنگی که از درخت بالا می رود نگاه کنید. 
+Removing his glasses, the professor shook his head with disappointment
+استاد در حالی که عینکش را برمیداشت، سر خود را با ناامیدی تکان داد.
+
+
+**** عبارت بدلی ****
+یک عبارت اسمی است که برای توضیح یا تکمیل معنای یک اسم یا ضمیر دیگر، استفاده میشود. 
+Thomas Edison, the inventor of the light bulb, is often called USA's greatest inventor. 
+Dexter, my dog, will chew your shoes if you leave them there. 
+
+
+**** wish ****
+برای بیان کاش یا ای کاش و حسرت خوردن یا ارزو داشتن
+was غیر رسمی
+were رسمی تر
+مهممممممممممممممم ====> در ازمون ها اگه هر دوتاش بود were درست تره
+If I was you / If I were you
+I wish I could fly.
+I wish Sarah would come
+I wish somebody would buy me a car
+It's been raining all day. I wish it would stop raining.
+I feel sick. I wish I hadn't eaten so much cake.
+******************************************************
+
+******************************************************
+****** قانون توازن در جمله *****
+
+تعداد ربط دهنده = تعداد فعل - 1
+مهممممممممممممم ====> فعل ing دلر شمرده نشود 
+ربط دهنده مثل and because for nor who that where  ....
+She completed her literature review, and she created her reference lis
+My sister doesn’t like to study, nor does she take notes in class
+**** doesn’t like یه فعل است
+**** ربط دهنده یعنی دو جمله رو به هم ربط بده نه چیز دیگه پایینیا ربط دهنده نیستند
+I bought this gift for you.
+you should never talk with ali and mamad.
+The boy who was injured in the accident was taken to the hospital
+******************************************************
+
+******************************************************
+267
