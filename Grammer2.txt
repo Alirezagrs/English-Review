@@ -73,6 +73,51 @@ meanwhile ضمنا - در ضمن
 
 ******************************************************
 *****************نکات مهم********************
+some => در جملات مثبت میاد
+any => در جملات منفی میاد 
+We bought some flowers
+We didn't buy any flowers
+
+do you have money پول داری؟
+do you have any money? چقدر پول داری؟ مقدارش مهمه برامون
+
+none ==> هیچ کدام-هیچی
+How much money do you have? None.
+اگر بعد از none of اسم جمع بیاد فعل بعد اون میتونه جمع یا مفرد بیاد
+None of the stores were open
+None of the stores was open
+
+both - either - neither
+وقتی تنها بیان از the استفاده نشود
+برای neither و either وقتی تنها بیان از اسم مفرد استفاده بشه 
+Both restaurants are very good. (not The both restaurants).
+Neither restaurant is expensive.هیچ کدام از این دو تا رستوران، گران نیستند.
+We can go to either restaurant. I don't care
+
+ساختار در مثال های زیر عوض میشود
+Both of these restaurants are very good. هر دوی این رستوران ها خیلی خوب هستند. 
+Neither of the restaurants we went to were (or was) expensive. 
+I haven't been to either of those restaurants. تا حالا به هیچ کدام از آن دو رستوران نرفته ام
+
+بعد از Neither of میشه از جمع یا مفرد فعل استفاده کرد
+Neither of the children wants to go to bed. 
+Neither of the children want to go to bed. 
+
+میتونن تنهای تنها بیان
+do you want tea or coffe? => neither or either or both
+
+each - every
+وقتی در مورد دوچیز-نفر صحبت میکنیم فقط each میاد
+in a baseball game, each team has nine players.
+
+each میتونه به تنهایی بیاد
+None of the rooms was the same. Each was different.
+
+every of نداریم و باید مث زیر عمل کنیم
+I've read every one of those books. هر کدام از آن کتاب ها را خواندهام.
+I've read every one of them. هر کدام از آن ها را خواندهام. 
+ 
+  
 that اینکه
 اگر اول جمله بیاد این معنی رو میده
 That individual behavior is influenced by social networks is beyond dispute. 
@@ -96,6 +141,8 @@ Look at the panther climbing the tree. به پلنگی که از درخت بال
 Removing his glasses, the professor shook his head with disappointment
 استاد در حالی که عینکش را برمیداشت، سر خود را با ناامیدی تکان داد.
 
+Having read the book, I became really tired
+
 
 **** عبارت بدلی ****
 یک عبارت اسمی است که برای توضیح یا تکمیل معنای یک اسم یا ضمیر دیگر، استفاده میشود. 
@@ -117,12 +164,12 @@ I feel sick. I wish I hadn't eaten so much cake.
 ******************************************************
 
 ******************************************************
-****** قانون توازن در جمله *****
+********************** قانون توازن در جمله **********************
 
 تعداد ربط دهنده = تعداد فعل - 1
 مهممممممممممممم ====> فعل ing دلر شمرده نشود 
 ربط دهنده مثل and because for nor who that where  ....
-She completed her literature review, and she created her reference lis
+She completed her literature review, and she created her reference list.
 My sister doesn’t like to study, nor does she take notes in class
 **** doesn’t like یه فعل است
 **** ربط دهنده یعنی دو جمله رو به هم ربط بده نه چیز دیگه پایینیا ربط دهنده نیستند
@@ -132,4 +179,76 @@ The boy who was injured in the accident was taken to the hospital
 ******************************************************
 
 ******************************************************
-267
+**********************وارونگی************************
+ساده ترین حالت ان در جملات پرسشی است
+Does Ali go there?
+Is The U.S a big country?
+
+حالات دیگر
+never/seldom/hardly ever/ rarely do they eat milk.
+No sooner had I finished watering the garden than it started raining
+little کم-به ندرت
+hardly = scarcely به سختی
+only then همون لحظه
+under no circumstance تحت هیچ شرایطی
+only later بعدا
+nowhere هیچ کجا
+In no way به هیچ وجه
+on no account به هیچ وجه
+
+یک مثال
+Not till I got home did I realize my wallet was missing. فقط وقتی رسیدم خونه متوجه شدم که کیفم گم شده.
+ 
+
+در قیدهای زیر، وارونگی در قسمت دوم جمله اتفاق میافتد
+not until * not since * only after * only when * only by * only if
+Not until I saw John with my own eyes did I really believe he was safe 
+
+وارونگی در جملات شرطی
+نوع اول
+If you need more information, don't hesitate to call me. 
+Should you need more information, don't hesitate to call me
+
+نوع دوم
+If the Sun disappeared, Earth would no longer be able to support life.
+Were the Sun to disappear, Earth would no longer be able to support life.
+
+If I were you, I would stop smoking.
+Were I you, I would stop smoking
+
+نوع سوم
+If I had been there, this problem wouldn't have happened
+Had I been there, this problem wouldn't have happened
+
+
+حالات دیگر
+الزامی نیست
+Not only he speaks English but he also speaks French.
+Not only does he speak English but he also speaks French.
+
+******************************************************
+
+******************************************************
+****************نکات مهم****************
+noy only == not just
+Not just did she apologize but sent me a card. نه تنها معذرت خواهی کرد، بلکه برایم یک کارت فرستاد .
+
+با عدد صفر مثل عددی بزرگ تر از یک رفتار شود
+0 dogs
+0 girls
+
+ساختار the... the...
+the more you lie, the more you get hated.
+the more the better.
+
+
+by virtue of the ===> به خاطر چیزی-به واسطه چیزی
+regardless ===> در هر صورت- به هر حال
+regardless of ====> صرف نظر از
+The law requires equal treatment for all, regardless of race, religion, or sex
+It may rain by the end of the day, but we plan to travel regardless.
+
+because of = due to = owing to ===> به خاطر
+
+وقتی میخوای بگی منم همینطور دو تا ساختار داریم
+I love this book. ==> me too (OR) so do I

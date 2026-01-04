@@ -771,8 +771,15 @@ Come on, Milad; I’m waiting. بجنب میلاد، منتظرم
 برای تاکید مودبانه در ابتدای جملات مثبت از Do استفاده میکنیم
 Do stop talking! I’m trying to work. دیگه حرف نزن! دارم سعی می کنم کار کنم. 
 
-everybody-everyone-someone-somebody-anybody
+everybody-everyone-someone-somebody-anybody-anyone-nobody-no one
 این اسامی بالا همیشه بعدشون فعل مفرد میاد حتی اگه معنی جمع بدهند.
+
+************به شدت مهم همیشه سوال خودمم بود*************
+اگر بخوایم در کار با موارد بالا از ضمایر فاعلی یا مفعولی یا صفت ملکی استفاده کنیم
+چون نمیدونیم مونث هست یا مذکر از they/their/them استفاده میکنیم
+somebody has forgotten to bring their coat. یکی فراموش کرده کتشو ببره.
+If anybody wants to leave early, they can. اگر کسی می خواهد زود برود، میتواند.
+Nobody in the class did their homework. هیچکس در کلاس، تکلیفش را ننوشت.
 *******************************************************************
 
 *******************************************************************
@@ -889,7 +896,7 @@ I prefer to live in the country
 I prefer living in the country
 
 would rather قعل ساده میاد بعدش
-I'd rather you made dinner now. 
+I'd rather you make dinner now. 
 
 be/get used to + Gerund
 to be used to doing sth عادت داشتن، آشنا بودن
